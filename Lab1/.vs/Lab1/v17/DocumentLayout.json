@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2F63F29F-64C0-4D7A-9CD8-642B49CA6156}|Lab1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F63F29F-64C0-4D7A-9CD8-642B49CA6156}|Lab1.csproj|d:\\unik\\4 sem\\os\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F63F29F-64C0-4D7A-9CD8-642B49CA6156}|Lab1.csproj|D:\\Unik\\4 sem\\OS\\Lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F63F29F-64C0-4D7A-9CD8-642B49CA6156}|Lab1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Unik\\4 sem\\OS\\Lab1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAcwDsAAAATAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwDsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T13:17:13.905Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "D:\\Unik\\4 sem\\OS\\Lab1\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:11:55.234Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-20T13:11:55.234Z"
             }
           ]
         }
