@@ -40,11 +40,18 @@ namespace Lab2
 
 
             // Создать дерево папок и файлов
-            foreach (string file in files)
+            foreach (string folder in folders)
             {
+                FileTree.Nodes.Add(folder);
+
+                string[] curfiles = Directory.GetFiles(folder);
+
+                foreach (string file in curfiles)
+                {
+                    FileTree.Nodes.Add(file);
+                    //FileInfoBox.Text += file + Environment.NewLine;
+                }
                 
-                FileTree.Nodes.Add(file);
-                FileInfoBox.Text += file + Environment.NewLine;
             }
         }
 
