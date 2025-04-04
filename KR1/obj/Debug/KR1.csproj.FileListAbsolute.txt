@@ -1,0 +1,10 @@
+D:\Unik\4 sem\OS\KR1\bin\Debug\KR1.exe.config
+D:\Unik\4 sem\OS\KR1\bin\Debug\KR1.exe
+D:\Unik\4 sem\OS\KR1\bin\Debug\KR1.pdb
+D:\Unik\4 sem\OS\KR1\obj\Debug\KR1.csproj.AssemblyReference.cache
+D:\Unik\4 sem\OS\KR1\obj\Debug\KR1.Form1.resources
+D:\Unik\4 sem\OS\KR1\obj\Debug\KR1.Properties.Resources.resources
+D:\Unik\4 sem\OS\KR1\obj\Debug\KR1.csproj.GenerateResource.cache
+D:\Unik\4 sem\OS\KR1\obj\Debug\KR1.csproj.CoreCompileInputs.cache
+D:\Unik\4 sem\OS\KR1\obj\Debug\KR1.exe
+D:\Unik\4 sem\OS\KR1\obj\Debug\KR1.pdb

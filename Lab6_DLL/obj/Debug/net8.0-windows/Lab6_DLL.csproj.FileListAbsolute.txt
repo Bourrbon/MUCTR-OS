@@ -1,0 +1,17 @@
+D:\Unik\4 sem\OS\Lab6_DLL\bin\Debug\net8.0-windows\Lab6_DLL.deps.json
+D:\Unik\4 sem\OS\Lab6_DLL\bin\Debug\net8.0-windows\Lab6_DLL.dll
+D:\Unik\4 sem\OS\Lab6_DLL\bin\Debug\net8.0-windows\Lab6_DLL.pdb
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\NewWindowControl.g.cs
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL_MarkupCompile.cache
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL_MarkupCompile.lref
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\NewWindowControl.baml
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.g.resources
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.AssemblyInfoInputs.cache
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.AssemblyInfo.cs
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.csproj.CoreCompileInputs.cache
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.sourcelink.json
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.dll
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\refint\Lab6_DLL.dll
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\Lab6_DLL.pdb
+D:\Unik\4 sem\OS\Lab6_DLL\obj\Debug\net8.0-windows\ref\Lab6_DLL.dll

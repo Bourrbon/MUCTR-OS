@@ -45,10 +45,11 @@
             this.SaveFileButton = new System.Windows.Forms.Button();
             this.CancelFileButton = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.ParentFolderButton = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.ParentFolderButton = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.RenameFileButton = new System.Windows.Forms.Button();
             this.statusStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -66,9 +67,9 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(76, 26);
+            this.label1.Location = new System.Drawing.Point(56, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 18);
+            this.label1.Size = new System.Drawing.Size(146, 23);
             this.label1.TabIndex = 1;
             this.label1.Text = "Текущая папка";
             // 
@@ -83,7 +84,7 @@
             // 
             // EditFileButton
             // 
-            this.EditFileButton.Location = new System.Drawing.Point(12, 452);
+            this.EditFileButton.Location = new System.Drawing.Point(12, 501);
             this.EditFileButton.Name = "EditFileButton";
             this.EditFileButton.Size = new System.Drawing.Size(248, 34);
             this.EditFileButton.TabIndex = 3;
@@ -92,7 +93,7 @@
             // 
             // DeleteFIleButton
             // 
-            this.DeleteFIleButton.Location = new System.Drawing.Point(12, 504);
+            this.DeleteFIleButton.Location = new System.Drawing.Point(12, 546);
             this.DeleteFIleButton.Name = "DeleteFIleButton";
             this.DeleteFIleButton.Size = new System.Drawing.Size(248, 34);
             this.DeleteFIleButton.TabIndex = 4;
@@ -112,9 +113,9 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(75, 23);
+            this.label2.Location = new System.Drawing.Point(63, 26);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(179, 18);
+            this.label2.Size = new System.Drawing.Size(224, 23);
             this.label2.TabIndex = 6;
             this.label2.Text = "Редактирование файла";
             // 
@@ -131,9 +132,9 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(93, 26);
+            this.label3.Location = new System.Drawing.Point(76, 26);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(169, 18);
+            this.label3.Size = new System.Drawing.Size(210, 23);
             this.label3.TabIndex = 8;
             this.label3.Text = "Информация о файле";
             // 
@@ -144,29 +145,29 @@
             this.StatusLabel,
             this.toolStripStatusLabel1,
             this.ErrorLabel});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 596);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 592);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(1001, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(1001, 26);
             this.statusStrip1.TabIndex = 9;
             this.statusStrip1.Text = "statusStrip1";
             // 
             // StatusLabel
             // 
             this.StatusLabel.Name = "StatusLabel";
-            this.StatusLabel.Size = new System.Drawing.Size(49, 17);
+            this.StatusLabel.Size = new System.Drawing.Size(59, 20);
             this.StatusLabel.Text = "Статус: ";
             // 
             // toolStripStatusLabel1
             // 
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(918, 17);
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(897, 20);
             this.toolStripStatusLabel1.Spring = true;
             this.toolStripStatusLabel1.Text = "⠀";
             // 
             // ErrorLabel
             // 
             this.ErrorLabel.Name = "ErrorLabel";
-            this.ErrorLabel.Size = new System.Drawing.Size(19, 17);
+            this.ErrorLabel.Size = new System.Drawing.Size(30, 20);
             this.ErrorLabel.Text = "✅";
             // 
             // SaveFileButton
@@ -191,6 +192,7 @@
             // 
             this.panel1.AutoSize = true;
             this.panel1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.panel1.Controls.Add(this.RenameFileButton);
             this.panel1.Controls.Add(this.ParentFolderButton);
             this.panel1.Controls.Add(this.FileTree);
             this.panel1.Controls.Add(this.label1);
@@ -200,8 +202,19 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(263, 596);
+            this.panel1.Size = new System.Drawing.Size(263, 592);
             this.panel1.TabIndex = 12;
+            // 
+            // ParentFolderButton
+            // 
+            this.ParentFolderButton.AutoSize = true;
+            this.ParentFolderButton.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.ParentFolderButton.Location = new System.Drawing.Point(13, 341);
+            this.ParentFolderButton.Name = "ParentFolderButton";
+            this.ParentFolderButton.Size = new System.Drawing.Size(30, 33);
+            this.ParentFolderButton.TabIndex = 5;
+            this.ParentFolderButton.Text = "↑";
+            this.ParentFolderButton.UseVisualStyleBackColor = true;
             // 
             // panel2
             // 
@@ -224,23 +237,21 @@
             this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel3.Location = new System.Drawing.Point(678, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(323, 596);
+            this.panel3.Size = new System.Drawing.Size(323, 592);
             this.panel3.TabIndex = 14;
             // 
-            // ParentFolderButton
+            // RenameFileButton
             // 
-            this.ParentFolderButton.AutoSize = true;
-            this.ParentFolderButton.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ParentFolderButton.Location = new System.Drawing.Point(13, 341);
-            this.ParentFolderButton.Name = "ParentFolderButton";
-            this.ParentFolderButton.Size = new System.Drawing.Size(26, 28);
-            this.ParentFolderButton.TabIndex = 5;
-            this.ParentFolderButton.Text = "↑";
-            this.ParentFolderButton.UseVisualStyleBackColor = true;
+            this.RenameFileButton.Location = new System.Drawing.Point(12, 449);
+            this.RenameFileButton.Name = "RenameFileButton";
+            this.RenameFileButton.Size = new System.Drawing.Size(248, 34);
+            this.RenameFileButton.TabIndex = 6;
+            this.RenameFileButton.Text = "Переименовать файл";
+            this.RenameFileButton.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.ClientSize = new System.Drawing.Size(1001, 618);
@@ -252,6 +263,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lab2";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.panel1.ResumeLayout(false);
@@ -287,6 +299,7 @@
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Button ParentFolderButton;
         private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.Button RenameFileButton;
     }
 }
 
