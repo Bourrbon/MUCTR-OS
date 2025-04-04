@@ -1,13 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unik\\4 sem\\TechProg\\Lab6\\",
+  "WorkspaceRootPath": "D:\\Unik\\4 sem\\OS\\Lab6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{402E71FA-150D-43E2-8A96-12C100B287C3}|Lab6.csproj|d:\\unik\\4 sem\\techprog\\lab6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3F476E8C-0484-4A9A-B525-FFD50FDD35AB}|..\\Lab6_DLL\\Lab6_DLL.csproj|d:\\unik\\4 sem\\os\\lab6_dll\\newwindowcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F476E8C-0484-4A9A-B525-FFD50FDD35AB}|..\\Lab6_DLL\\Lab6_DLL.csproj|d:\\unik\\4 sem\\os\\lab6_dll\\newwindowcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402E71FA-150D-43E2-8A96-12C100B287C3}|Lab6.csproj|d:\\unik\\4 sem\\os\\lab6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{402E71FA-150D-43E2-8A96-12C100B287C3}|Lab6.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{402E71FA-150D-43E2-8A96-12C100B287C3}|Lab6.csproj|d:\\unik\\4 sem\\techprog\\lab6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{402E71FA-150D-43E2-8A96-12C100B287C3}|Lab6.csproj|D:\\Unik\\4 sem\\OS\\Lab6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{402E71FA-150D-43E2-8A96-12C100B287C3}|Lab6.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +33,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewWindowControl.xaml.cs",
+              "DocumentMoniker": "D:\\Unik\\4 sem\\OS\\Lab6_DLL\\NewWindowControl.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Lab6_DLL\\NewWindowControl.xaml.cs",
+              "ToolTip": "D:\\Unik\\4 sem\\OS\\Lab6_DLL\\NewWindowControl.xaml.cs",
+              "RelativeToolTip": "..\\Lab6_DLL\\NewWindowControl.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:03:30.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewWindowControl.xaml",
+              "DocumentMoniker": "D:\\Unik\\4 sem\\OS\\Lab6_DLL\\NewWindowControl.xaml",
+              "RelativeDocumentMoniker": "..\\Lab6_DLL\\NewWindowControl.xaml",
+              "ToolTip": "D:\\Unik\\4 sem\\OS\\Lab6_DLL\\NewWindowControl.xaml",
+              "RelativeToolTip": "..\\Lab6_DLL\\NewWindowControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T23:03:23.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Unik\\4 sem\\TechProg\\Lab6\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Unik\\4 sem\\OS\\Lab6\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\Unik\\4 sem\\TechProg\\Lab6\\MainWindow.xaml",
+              "ToolTip": "D:\\Unik\\4 sem\\OS\\Lab6\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-04T21:59:49.959Z",
@@ -38,16 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Unik\\4 sem\\TechProg\\Lab6\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Unik\\4 sem\\OS\\Lab6\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\Unik\\4 sem\\TechProg\\Lab6\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Unik\\4 sem\\OS\\Lab6\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAmwCQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T21:59:47.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T21:59:47.205Z"
             }
           ]
         }

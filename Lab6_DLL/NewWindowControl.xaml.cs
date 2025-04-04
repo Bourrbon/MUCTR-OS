@@ -33,6 +33,10 @@ namespace Lab6_DLL
 				{
 					double inp = Convert.ToDouble(InputBox.Text);
 					double res = TestClass.func(inp);
+					if ( double.IsNaN(res) || double.IsInfinity(res) )
+					{
+						throw new Exception("При вычислении произошла ошибка: результат NaN или ±∞.");
+					}
 					OutputBox.Text = Convert.ToString(res);
 				}
 				catch (Exception ex)
