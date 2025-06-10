@@ -1,0 +1,30 @@
+﻿<Window x:Class="Lab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:Lab7"
+        mc:Ignorable="d"
+        Title="Lab7" Height="600" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <xctk:IntegerUpDown Name="HeightControl" HorizontalAlignment="Left" Margin="15,190,0,0" VerticalAlignment="Top" Height="20" Width="92" FontSize="12" Increment="1" Minimum="0" Maximum="5000"/>
+        <Button x:Name="ScanButton" Content="Сканировать" HorizontalAlignment="Left" Margin="15,21,0,0" VerticalAlignment="Top" Height="40" Width="119" FontSize="18" Click="ScanButton_Click"/>
+        <TextBox x:Name="OutputBox" IsReadOnly="True" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Width="372" Height="28" ScrollViewer.CanContentScroll="True" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"/>
+        <TreeView x:Name="WinTree" Margin="387,22,10,0" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" SelectedItemChanged="WinTree_SelectedItemChanged"/>
+        <Label Content="Изменить размер и координаты окна:" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top"/>
+        <Label Content="Высота" HorizontalAlignment="Left" Margin="10,164,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ширина" HorizontalAlignment="Left" Margin="152,164,0,0" VerticalAlignment="Top"/>
+        <Label Content="X_coord" HorizontalAlignment="Left" Margin="17,226,0,0" VerticalAlignment="Top"/>
+        <Label Content="Y_coord" HorizontalAlignment="Left" Margin="156,226,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="SearchVisibleCheckBox" Content="Только видимые" HorizontalAlignment="Left" Margin="179,46,0,0" VerticalAlignment="Top" Checked="SearchVisibleCheckBox_Checked" Unchecked="SearchVisibleCheckBox_Unchecked"/>
+        <xctk:IntegerUpDown x:Name="WidthControl" HorizontalAlignment="Left" Margin="156,190,0,0" VerticalAlignment="Top" Height="20" Width="92" FontSize="12" Increment="1" Minimum="0" Maximum="5000"/>
+        <xctk:IntegerUpDown x:Name="XCoordControl" HorizontalAlignment="Left" Margin="19,257,0,0" VerticalAlignment="Top" Height="20" Width="92" FontSize="12" Increment="1" Minimum="0" Maximum="5000"/>
+        <xctk:IntegerUpDown x:Name="YCoordControl" HorizontalAlignment="Left" Margin="160,257,0,0" VerticalAlignment="Top" Height="20" Width="92" FontSize="12" Increment="1" Minimum="0" Maximum="5000"/>
+        <Button x:Name="SetPositionButton" Content="Установить координаты" HorizontalAlignment="Left" Margin="94,313,0,0" VerticalAlignment="Top" Click="SetPositionButton_Click"/>
+        <TextBox x:Name="WindowTitleBox" HorizontalAlignment="Left" Margin="15,391,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178"/>
+        <Button x:Name="SetTitleButton" Content="Установить новый заголовок" HorizontalAlignment="Left" Margin="100,429,0,0" VerticalAlignment="Top" Click="SetTitleButton_Click"/>
+        <Label Content="Заголовок окна" HorizontalAlignment="Left" Margin="15,360,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

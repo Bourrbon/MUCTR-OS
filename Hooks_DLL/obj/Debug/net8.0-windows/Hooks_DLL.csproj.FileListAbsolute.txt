@@ -1,0 +1,12 @@
+D:\Unik\4 sem\OS\Hooks_DLL\bin\Debug\net8.0-windows\Hooks_DLL.deps.json
+D:\Unik\4 sem\OS\Hooks_DLL\bin\Debug\net8.0-windows\Hooks_DLL.dll
+D:\Unik\4 sem\OS\Hooks_DLL\bin\Debug\net8.0-windows\Hooks_DLL.pdb
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\Hooks_DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\Hooks_DLL.AssemblyInfoInputs.cache
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\Hooks_DLL.AssemblyInfo.cs
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\Hooks_DLL.csproj.CoreCompileInputs.cache
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\Hooks_DLL.sourcelink.json
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\Hooks_DLL.dll
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\refint\Hooks_DLL.dll
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\Hooks_DLL.pdb
+D:\Unik\4 sem\OS\Hooks_DLL\obj\Debug\net8.0-windows\ref\Hooks_DLL.dll

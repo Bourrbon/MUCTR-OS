@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unik\\4 sem\\OS\\Hooks_DLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AEE570-7C9E-4B84-8C1C-E4715E792362}|Hooks_DLL.csproj|d:\\unik\\4 sem\\os\\hooks_dll\\keyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AEE570-7C9E-4B84-8C1C-E4715E792362}|Hooks_DLL.csproj|solutionrelative:keyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyboardHook.cs",
+              "DocumentMoniker": "D:\\Unik\\4 sem\\OS\\Hooks_DLL\\KeyboardHook.cs",
+              "RelativeDocumentMoniker": "KeyboardHook.cs",
+              "ToolTip": "D:\\Unik\\4 sem\\OS\\Hooks_DLL\\KeyboardHook.cs",
+              "RelativeToolTip": "KeyboardHook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:32:07.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

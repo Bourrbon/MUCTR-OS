@@ -1,0 +1,10 @@
+D:\Unik\4 sem\OS\Lab_ShellExecute\bin\Debug\Lab_ShellExecute.exe.config
+D:\Unik\4 sem\OS\Lab_ShellExecute\bin\Debug\Lab_ShellExecute.exe
+D:\Unik\4 sem\OS\Lab_ShellExecute\bin\Debug\Lab_ShellExecute.pdb
+D:\Unik\4 sem\OS\Lab_ShellExecute\obj\Debug\Lab_ShellExecute.csproj.AssemblyReference.cache
+D:\Unik\4 sem\OS\Lab_ShellExecute\obj\Debug\Lab_ShellExecute.Form1.resources
+D:\Unik\4 sem\OS\Lab_ShellExecute\obj\Debug\Lab_ShellExecute.Properties.Resources.resources
+D:\Unik\4 sem\OS\Lab_ShellExecute\obj\Debug\Lab_ShellExecute.csproj.GenerateResource.cache
+D:\Unik\4 sem\OS\Lab_ShellExecute\obj\Debug\Lab_ShellExecute.csproj.CoreCompileInputs.cache
+D:\Unik\4 sem\OS\Lab_ShellExecute\obj\Debug\Lab_ShellExecute.exe
+D:\Unik\4 sem\OS\Lab_ShellExecute\obj\Debug\Lab_ShellExecute.pdb

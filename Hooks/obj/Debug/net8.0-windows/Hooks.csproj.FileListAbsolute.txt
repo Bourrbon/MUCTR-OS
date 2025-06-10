@@ -1,0 +1,17 @@
+D:\Unik\4 sem\OS\Hooks\bin\Debug\net8.0-windows\Hooks.exe
+D:\Unik\4 sem\OS\Hooks\bin\Debug\net8.0-windows\Hooks.deps.json
+D:\Unik\4 sem\OS\Hooks\bin\Debug\net8.0-windows\Hooks.runtimeconfig.json
+D:\Unik\4 sem\OS\Hooks\bin\Debug\net8.0-windows\Hooks.dll
+D:\Unik\4 sem\OS\Hooks\bin\Debug\net8.0-windows\Hooks.pdb
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.Form1.resources
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.csproj.GenerateResource.cache
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.AssemblyInfoInputs.cache
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.AssemblyInfo.cs
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.csproj.CoreCompileInputs.cache
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.sourcelink.json
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.dll
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\refint\Hooks.dll
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.pdb
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\Hooks.genruntimeconfig.cache
+D:\Unik\4 sem\OS\Hooks\obj\Debug\net8.0-windows\ref\Hooks.dll

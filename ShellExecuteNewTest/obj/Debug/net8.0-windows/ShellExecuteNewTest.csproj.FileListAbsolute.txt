@@ -1,0 +1,17 @@
+D:\Unik\4 sem\OS\ShellExecuteNewTest\bin\Debug\net8.0-windows\ShellExecuteNewTest.exe
+D:\Unik\4 sem\OS\ShellExecuteNewTest\bin\Debug\net8.0-windows\ShellExecuteNewTest.deps.json
+D:\Unik\4 sem\OS\ShellExecuteNewTest\bin\Debug\net8.0-windows\ShellExecuteNewTest.runtimeconfig.json
+D:\Unik\4 sem\OS\ShellExecuteNewTest\bin\Debug\net8.0-windows\ShellExecuteNewTest.dll
+D:\Unik\4 sem\OS\ShellExecuteNewTest\bin\Debug\net8.0-windows\ShellExecuteNewTest.pdb
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.Form1.resources
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.csproj.GenerateResource.cache
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.AssemblyInfoInputs.cache
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.AssemblyInfo.cs
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.csproj.CoreCompileInputs.cache
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.sourcelink.json
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.dll
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\refint\ShellExecuteNewTest.dll
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.pdb
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ShellExecuteNewTest.genruntimeconfig.cache
+D:\Unik\4 sem\OS\ShellExecuteNewTest\obj\Debug\net8.0-windows\ref\ShellExecuteNewTest.dll
