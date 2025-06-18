@@ -7,4 +7,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="testimage.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="testimage.png" />
+  </ItemGroup>
+
 </Project>
